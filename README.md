@@ -2,13 +2,14 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2JiYmY5M2EwMTU3MzRjMzNjODNlOWE0ZWYxMjkyYWU2NzZmMGI5MCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" />
 </div>
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/zi-yang-lim-a2b651188/">
+  <a href="https://www.linkedin.com/in/zi-yang-lim-a2b651188/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://limziyang.com/">
+  <a href="https://limziyang.com/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-indigo?style=for-the-badge" alt="Website Badge"/>
   </a>
 </div>
+
 <div id="views" align="center">
   <img src="https://komarev.com/ghpvc/?username=Ziyang-98&style=flat-square&color=blue" alt="GitHub Views"/>
 </div>
