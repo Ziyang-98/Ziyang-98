@@ -29,11 +29,13 @@ My name is Lim Zi Yang and I am a Full-Stack Developer <img src="https://media.g
 
 ---
 
-### :sparkles: My Stats :
+### :sparkles: My Skills :
+<!--
 
 <div id="stats" align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ziyang-98&show_icons=true&theme=transparent" alt="My Statistics" /> 
 <div>
+--->
 
 <div id="langs" align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ziyang-98&theme=transparent&layout=compact" alt="My Languages" /> 
