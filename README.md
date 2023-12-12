@@ -18,18 +18,18 @@
 </h1>
 
 
-### :man_technologist: About Me :
+### 👨‍💻 About Me
 
 My name is Lim Zi Yang and I am a Full-Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Singapore.
 
-- :telescope: I’m currently a Software Engineer working at DSTA Singapore.
-- :zap: During my free time, I like to work on personal projects and read tech articles. 
-- :video_game: I am also an avid gamer and I enjoy a variety of video games like League of Legends & Teamfight Tactics.
-- 📫: How to reach out to me: [![Linkedin Badge](https://img.shields.io/badge/-Zi%20Yang-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zi-yang-lim-a2b651188/)
+- 🔭 I’m currently a Software Engineer working at DSTA Singapore.
+- ⚡ During my free time, I like to work on personal projects and read tech articles. 
+- 🎮 I am also an avid gamer and I enjoy a variety of video games like League of Legends & Teamfight Tactics.
+- 📫 How to reach out to me: [![Linkedin Badge](https://img.shields.io/badge/-Zi%20Yang-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zi-yang-lim-a2b651188/)
 
 ---
 
-### :sparkles: My Skills :
+### ✨ My Skills
 <!--
 
 <div id="stats" align="center">
